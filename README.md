@@ -1,3 +1,6 @@
+![image](https://github.com/Plexversal/react-cubic-calculator/assets/47725871/7e056c35-f198-4a41-9c90-e10d669ade57)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
